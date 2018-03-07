@@ -1,3 +1,5 @@
+Modifications to barcode scanner app to allow full screen previews on Android devices. 
+
 ### Steps to build a new .aar
  * Clone this repo
  * Open it in Android Studio
